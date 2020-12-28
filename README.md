@@ -1,8 +1,8 @@
 # Data Science Projects
----
+
 
 ## Table of Contents
----
+
 
 - [Introduction](#introduction)
 - [Repository contents](#repository-contents)
@@ -26,7 +26,7 @@ In the folder `projects/` you can find the individual projects and associated no
 So far you can find the following projects:
 
 - `notebooks/project01/`
-    - __P-01 | Inheritance of beak morphology in the Galapagos finches__ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joseferncruz/datascience_projects.git/master)
+    - [__P-01 | Inheritance of beak morphology in the Galapagos finches__](https://github.com/joseferncruz/datascience_projects/tree/master/projects/project01) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/joseferncruz/datascience_projects.git/master)
 
 
 
